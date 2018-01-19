@@ -1,6 +1,6 @@
 # Fan Website 
 
-In this project I created a fan website for the ban Of Monsters and Men. 
+In this project I created a fan website for the band Of Monsters and Men. 
 
 This website was built using:
 
