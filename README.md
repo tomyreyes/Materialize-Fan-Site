@@ -4,9 +4,9 @@ In this project I created a fan website for the band Of Monsters and Men.
 
 This website was built using:
 
-*[jQuery](https://jquery.com/)
+* [jQuery](https://jquery.com/)
 
-*[Materialize](http://materializecss.com/)
+* [Materialize](http://materializecss.com/)
 
 The purpose of this project was to build on the fundamentals of HTML and CSS, familiarize ourselves with jQuery as well as to become more familiar with responsive design.
 
