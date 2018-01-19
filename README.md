@@ -1,22 +1,24 @@
 # Fan Website 
----
 
 In this project I created a fan website for the ban Of Monsters and Men. 
 
 This website was built using:
-[jQuery](https://jquery.com/)
-[Materialize](http://materializecss.com/)
+..*[jQuery](https://jquery.com/)
+
+..*[Materialize](http://materializecss.com/)
 
 The purpose of this project was to build on the fundamentals of HTML and CSS, familiarize ourselves with jQuery as well as to become more familiar with responsive design.
 
-Materialize:
+### Materialize:
 I chose to use materialize as I have used bootstrap in the past and I had the opportunity to learn something new. 
 
 Materialize is a framework created by Google in 2014. It was created based on the visual language material design. Some core
 principles behind material design are:
 
 Material is the metaphor - design emulates what we see in reality to inspire familiarty, creativity and innovation 
+
 Bold, graphic and intentional - fundamental design techniques are the driving force that create immersive user interfaces
+
 Motion provides meaning - the use of animation in meaningful ways such as focusing and direction attention
 
 For more information on material design:
