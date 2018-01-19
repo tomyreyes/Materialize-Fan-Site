@@ -1,14 +1,14 @@
 # Fan Website 
 
-In this project I created a fan website for the band Of Monsters and Men. 
+In this project I created a fan website for the band Of Monsters and Men. The purpose of this project was to build on the fundamentals of HTML and CSS, familiarize ourselves with jQuery as well as to become more familiar with responsive design.
 
-This website was built using:
+
+### This website was built using:
 
 * [jQuery](https://jquery.com/)
 
 * [Materialize](http://materializecss.com/)
 
-The purpose of this project was to build on the fundamentals of HTML and CSS, familiarize ourselves with jQuery as well as to become more familiar with responsive design.
 
 ### Materialize:
 
