@@ -19,7 +19,7 @@ principles behind material design are:
 
 + **Bold, graphic and intentional** - fundamental design techniques are the driving force that create immersive user interfaces
 
-+ **Motion provides meaning** - the use of animation in meaningful ways such as focusing and direction attention
++ **Motion provides meaning** - the use of animation in meaningful ways such as focusing and directing attention
 
 For more information on material design:
 
